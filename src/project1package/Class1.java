@@ -11,5 +11,8 @@ public class Class1 {
 		System.out.println("Practicing ...");
 		
 	}
+	public void getInfo2() {
+		System.out.println("Stashing practice");
+	}
 
 }
